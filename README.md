@@ -19,11 +19,11 @@
 
 ### 1、使用下面命令下载hbl-comment组件
 
-	npm i hbl-comment
+	npm i bright-comment
 
 ### 2、下载完成之后在项目中引入
 
-	import comment from 'hbl-comment'
+	import comment from 'bright-comment'
 	components:{
       comment
     },
